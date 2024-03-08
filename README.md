@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Saurav Chaulagain</h1>
-<h3 align="center">A passionate frontend developer from Nepal.</h3>
-<img aligh="right" alt ="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<h3 align="center">A passionate Flutter developer from Nepal.</h3>
+<img aligh="right" alt ="Coding" width="400" src="https://github.com/sauravchaulagain/resources/blob/resources/gif/code.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravchaulagain&label=Profile%20views&color=0e75b6&style=flat" alt="sauravchaulagain" /> </p>
 
@@ -22,8 +22,8 @@
 <style>
   .tech-logos {
     float: left;
-    width: 150px; /* Set the width of each image */
-    height: 150px; /* Set the height of each image */
+    width: 70px; /* Set the width of each image */
+    height: 70px; /* Set the height of each image */
     padding: 10px; /* Set the padding around each image */
     box-sizing: border-box; /* Include padding in the width/height */
   }
@@ -47,9 +47,11 @@
   <img class="tech-logos" src="https://github.com/sauravchaulagain/resources/blob/resources/tech_logos/ubuntu-plain-wordmark.png?raw=true">
   <img class="tech-logos" src="https://github.com/sauravchaulagain/resources/blob/resources/tech_logos/vscode-original-wordmark.png?raw=true">
   <img class="tech-logos" src="https://github.com/sauravchaulagain/resources/blob/resources/tech_logos/xcode-original.png?raw=true">
+  <hr> 
 </p>
 
-<!-- <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p> -->
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sauravchaulagain&show_icons=true&locale=en&layout=compact" alt="sauravchaulagain" /></p>
 
